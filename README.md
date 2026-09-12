@@ -1,2 +1,2 @@
 Hi there 👋
-![GitHub Stats Card](https://ghstats.dev/api/card?username=flytruth&border_radius=20.5&custom_title=Fly+%26+Truth%27s++statistics)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=flytruth&days=30&width=320&height=80)
