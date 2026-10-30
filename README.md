@@ -2,4 +2,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,ts,qt,py,pr,nodejs,mysql,linux,java,js,html,gcp,docker,cpp,bash&theme=dark)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flytruth&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flytruth&layout=compact&theme=dark" alt="Top Languages" />
+</p>
